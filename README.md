@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-* **Protótipo:** https://stackblitz.com/edit/vitejs-vite-5dav1x?file=index.html&terminal=dev
+* **Protótipo StackBlitz:** https://stackblitz.com/edit/vitejs-vite-5dav1x?file=README.md
