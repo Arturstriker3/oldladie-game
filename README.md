@@ -17,4 +17,4 @@
 </div>
 <br/>
 
-* **Protótipo:** https://stackblitz.com/edit/vue-ycdmpo?file=src%2FApp.vue
+* **Protótipo:** https://stackblitz.com/edit/vitejs-vite-5dav1x?file=index.html&terminal=dev
