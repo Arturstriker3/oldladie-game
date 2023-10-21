@@ -2,7 +2,6 @@
  
  
  Nesse projeto o foco foi praticar o desenvolvimento de componentes Vue estilziados com Tailwind Css.
- Nessa branch foi utilizado axios para integrar com Api feita com Node.js
  
  **O que utilizei**
 * HTML e CSS;
